@@ -1,0 +1,14 @@
+{
+  "name": "Klaus Salmutter Official",
+  "short_name": "SK",
+  "icons": [{
+    "src": "img/sample-icon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }],
+  "lang": "de-DE",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "white",
+  "theme_color": "white"
+}
